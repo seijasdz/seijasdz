@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a developer passionate about collecting knowledge, it is a passion of mine to learn new techniques and skills every day, you can say that it is the engine that moves me. For some years I have dedicated myself to Backend development with the Javascript (Node) and Python languages. Currently I am very interested (and studying!) Machine Learning, it is a field for which I have developed a strong interest thanks to my Thesis. At the same time, I am venturing into the field of Front-end Development, because why not? I already said it: I like to learn. At the moment I am learning React!
+
 <!--
 **seijasdz/seijasdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
