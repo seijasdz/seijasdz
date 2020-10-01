@@ -16,7 +16,7 @@ He creado APIs REST trabajado con monolitos así como arquitecturas de microserv
 
 Con la llegada de esta pandemia me propuse salir de ella como un mejor profesional, así que apunté a dos nuevos intereses que son los que me han mantenido activo: Machine Learning y el Desarrollo FrontEnd (¡al fin!).
 
-Mi interés en el Machine Learning lo despertó mi tesis, un predictor genético basado en Modelos Ocultos de Markov, en el cual llevo ya 3 años trabajando. Desde ahí salte al estudio de las Redes Neurales Artificiales y el Aprendizaje Profundo.
+Mi interés en el Machine Learning lo despertó mi tesis, un predictor genético basado en Modelos Ocultos de Markov, en el cual llevo ya 3 años trabajando. Desde ahí salté al estudio de las Redes Neurales Artificiales y el Aprendizaje Profundo.
 
 También estoy intentando aprender todo lo relacionado con React, ¡pronto lo verán aquí publicado!
 
