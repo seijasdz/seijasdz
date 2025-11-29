@@ -55,19 +55,11 @@ into a real, stable backend that **doesn’t explode in production**.
 
 ---
 
-## 📊 GitHub Stats
-
-![José’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=seijasdz&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seijasdz&layout=compact&hide_border=true)
-
----
-
 ## 📬 Let’s connect!
 
 Feel free to reach out — I’m always open to collaborating or chatting about backend magic.
 
-📫 **Email:** _add yours here_  
-💼 **LinkedIn:** _add link here_  
+📫 **Email:** seijasdz@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/seijasdz/ 
 
 ---
