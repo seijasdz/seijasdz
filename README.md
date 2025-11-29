@@ -1,36 +1,73 @@
-### ¿Hola que tal?
+# 🎉 Hey there! I’m José — Backend Developer who loves APIs, coffee, and clean code ☕🚀
 
-Sí tuviera que resumir mi carrera en un pocas palabras, serían: Curiosidad, Ambición y Adaptación.
+Sometimes I write elegant code.  
+Sometimes it just works… but hey, working code *is* elegance in disguise.
 
-Desde pequeño sentí atracción por las computadoras. Mis padres, siempre a la vanguardia se encargaron de que creciera rodeado de ellas.
+---
 
-Comencé a programar por allá en 2009 en aquella primera clase de computación de la universidad (¡Ja! Ni sabía en lo que me había metido).
+## 🧠 Who am I when I’m not wrestling with dependencies?
 
-Con el tiempo descubrí que esto se me da muy bien y me apasiona un montón.
+I’m a **Backend Developer** focused on building scalable, predictable, and clean APIs.  
+My philosophy is simple:
 
-Cada que descubro una nueva tecnología o lenguaje me urgen enormes ganas de aprenderlo, de obtener ese conocimiento. Me gusta saber, así de simple. Lo que me falta es tiempo para aprender todo lo que me interesa.
+- Keep the code **clear**  
+- Keep the APIs **consistent**  
+- Keep production from catching fire (especially at 3am)
 
-Durante mis primeros años me dediqué casi exclusivamente al backend, trabajando con Node (JavaScript), Python, Java y C#, las cosas visuales, gráficas y bonitas digamos que no eran lo mío.
+---
 
-He creado APIs REST trabajado con monolitos así como arquitecturas de microservicios. Manejo bases de datos SQL (MySQL, Postgres) así como no relacionales: (MongoDB, DynamoDB).
+## 🛠️ Tech I use to build things (and occasionally break them)
 
-Con la llegada de esta pandemia me propuse salir de ella como un mejor profesional, así que apunté a dos nuevos intereses que son los que me han mantenido activo: Machine Learning y el Desarrollo FrontEnd (¡al fin!).
+### **Languages & Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
-Mi interés en el Machine Learning lo despertó mi tesis, un predictor genético basado en Modelos Ocultos de Markov, en el cual llevo ya 3 años trabajando. Desde ahí salté al estudio de las Redes Neurales Artificiales y el Aprendizaje Profundo.
+### **Frameworks**
+![Express](https://img.shields.io/badge/Express-000?logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-También estoy intentando aprender todo lo relacionado con React, ¡pronto lo verán aquí publicado!
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-<!--
-**seijasdz/seijasdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I focus on
+
+- Designing **robust, scalable backend architectures**  
+- Building clean and organized **REST APIs**  
+- Writing backend code that’s easy to read and hard to break  
+- Turning ambiguous ideas into working features  
+
+---
+
+## 🚀 My superpower
+
+Turning vague thoughts like *“I need an app that does… something”*  
+into a real, stable backend that **doesn’t explode in production**.
+
+---
+
+## 📊 GitHub Stats
+
+![José’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=seijasdz&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seijasdz&layout=compact&hide_border=true)
+
+---
+
+## 📬 Let’s connect!
+
+Feel free to reach out — I’m always open to collaborating or chatting about backend magic.
+
+📫 **Email:** _add yours here_  
+💼 **LinkedIn:** _add link here_  
+
+---
