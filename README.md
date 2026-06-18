@@ -1,4 +1,4 @@
-# 🎉 Hey there! I’m José — Backend Developer who loves APIs, coffee, and clean code ☕🚀
+# 🎉 Hey there! I’m José — Software Developer who loves APIs, coffee, and clean code ☕🚀
 
 Sometimes I write elegant code.  
 Sometimes it just works… but hey, working code *is* elegance in disguise.
